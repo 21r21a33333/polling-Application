@@ -1,0 +1,6 @@
+[submodule "polling-site-backend"]
+	path = polling-site-backend
+	url = https://github.com/21r21a33333/polling-site-backend.git
+[submodule "polling-site-frontend"]
+	path = polling-site-frontend
+	url = https://github.com/21r21a33333/polling-site-frontend.git
